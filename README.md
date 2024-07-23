@@ -15,10 +15,10 @@ Each column in this dataset provides detailed information about the patient, the
 - `Doctor`: The name of the doctor overseeing the patient's care during their admission.
 - `Hospital`: The healthcare facility or hospital where the patient was admitted.
 - `Insurance Provider`: The patient's insurance provider, including options like "Aetna," "Blue Cross," "Cigna," "UnitedHealthcare," and "Medicare."
-`Billing Amount`: The billed amount for the patient's healthcare services during their admission, represented as a floating-point number.
-`Room Number`: The room number where the patient stayed during their admission.
-`Admission Type`: The type of admission, which can be "Emergency," "Elective," or "Urgent," indicating the nature of the admission.
-`Discharge Date`: The date the patient was discharged from the healthcare facility, determined by the admission date and a randomly assigned realistic number of days.
+- `Billing Amount`: The billed amount for the patient's healthcare services during their admission, represented as a floating-point number.
+- `Room Number`: The room number where the patient stayed during their admission.
+- `Admission Type`: The type of admission, which can be "Emergency," "Elective," or "Urgent," indicating the nature of the admission.
+- `Discharge Date`: The date the patient was discharged from the healthcare facility, determined by the admission date and a randomly assigned realistic number of days.
 - `Medication`: The medication prescribed or administered to the patient during their stay, such as "Aspirin," "Ibuprofen," "Penicillin," "Paracetamol," or "Lipitor."
 - `Test Results`: The outcome of a medical test conducted during the patient's admission, which can be "Normal," "Abnormal," or "Inconclusive."
 
