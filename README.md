@@ -27,11 +27,12 @@ Each column in this dataset provides detailed information about the patient, the
 To run this project, ensure you have Python installed. Follow these steps to set up the environment:
 
 Clone the repository:
-"git clone https://github.com/AneleMaphalala/Healthcare-Data-Analysis.git"
-"cd Healthcare-Data-Analysis"
+- "git clone https://github.com/AneleMaphalala/Healthcare-Data-Analysis.git"
+- "cd Healthcare-Data-Analysis"
+
 Create a virtual environment:
-"python -m venv env"
-"source env/bin/activate # On Windows, use env\Scripts\activate"
+- "python -m venv env"
+- "source env/bin/activate # On Windows, use env\Scripts\activate"
 
 
 # Summary and Impact
