@@ -51,4 +51,4 @@ Create a virtual environment:
 - These findings point to key areas for targeted health interventions, including specialized treatment plans and preventative care programs aimed at managing and reducing the long-term impact of these conditions.
 
 **Patient demographics dashboard revealed an age distribution skewed towards patients aged 36-64, indicating a higher demand for age-specific medical services.**
-This suggests an increasing need for healthcare resources focused on mid-life and pre-retirement populations, including routine screenings, lifestyle interventions, and specialized care for managing age-related health concerns.
+- This suggests an increasing need for healthcare resources focused on mid-life and pre-retirement populations, including routine screenings, lifestyle interventions, and specialized care for managing age-related health concerns.
